@@ -1,0 +1,4 @@
+Flask
+sqlite3
+google-cloud-vertexai
+google-api-core 
